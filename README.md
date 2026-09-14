@@ -1,6 +1,6 @@
 # Weather App 🌦️
 
-I built this project using HTML, CSS, JavaScript, and the **OpenWeatherMap API** to learn web development and how to work with APIs.
+I built this project using HTML, CSS, JavaScript, and the **OpenWeatherMap API** to learn how to work with APIs.
 
 ### Features
 - Current temperature and weather conditions
